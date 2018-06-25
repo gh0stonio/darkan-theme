@@ -3,7 +3,7 @@
   "displayName": "Darkan",
   "description": "Dark theme based on atom one dark",
   "repository": "https://github.com/gh0stonio/darkan-theme.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gh0stonio",
   "engines": {
     "vscode": "^1.24.0"
